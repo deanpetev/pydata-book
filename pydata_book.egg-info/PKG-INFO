@@ -4,7 +4,7 @@ Version: 3.0.0
 Summary: Code and materials for Python for Data Analysis, 3rd Edition
 Requires-Python: >=3.9
 License-File: COPYING
-Requires-Dist: numpy
+Requires-Dist: numpy<2.0.0
 Requires-Dist: pandas==2.0.3
 Requires-Dist: matplotlib
 Requires-Dist: lxml
